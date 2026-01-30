@@ -60,7 +60,7 @@ Foram utilizados diagramas para planejar o fluxo da aplicação:
 
 ## 🚀 Exemplo de uso
 
-![Gif demonstração](./Gif/demonstracao-terminal.mp4)
+![Gif demonstração](./Gif/demonstracao.gif)
 
 ## 🎓 Contexto do curso
 
