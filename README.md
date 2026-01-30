@@ -53,14 +53,14 @@ Foram utilizados diagramas para planejar o fluxo da aplicação:
 - Diagrama de Classes
 
 
-![Diagrama de Caso de Uso](./diagramas/caso-de-uso.png)  
-![Diagrama de Classes](./diagramas/diagrama-de-classes.png)
+![Diagrama de Caso de Uso](./Diagramas/caso-de-uso.png)  
+![Diagrama de Classes](./Diagramas/diagrama-de-classes.png)
 
 ---
 
 ## 🚀 Exemplo de uso
 
-![Gif demonstração](./Gif/demonstracao-terminal.gif)
+![Gif demonstração](./Gif/demonstracao-terminal.mp4)
 
 ## 🎓 Contexto do curso
 
