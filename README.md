@@ -53,20 +53,21 @@ Foram utilizados diagramas para planejar o fluxo da aplicação:
 - Diagrama de Classes
 
 
-![Diagrama de Caso de Uso](./Diagramas/caso-de-uso.png)  
-![Diagrama de Classes](./Diagramas/diagrama-de-classes.png)
+![Diagrama de Caso de Uso](./assets/Diagramas/caso-de-uso.png)  
+![Diagrama de Classes](./assets/Diagramas/diagrama-de-classes.png)
 
 ---
 
 ## 🚀 Exemplo de uso
 
-![Gif demonstração](./Gif/demonstracao.gif)
+![Demonstração da aplicação](./assets/gif/demonstracao.gif)
+
 
 ## 🎓 Contexto do curso
 
 Projeto desenvolvido como desafio prático do curso  
 **Java: trabalhando com lambdas, streams e Spring Framework**,  
-da plataforma **Alura**, com foco em consumo de APIs, modelagem de dados e uso de Streams. :contentReference[oaicite:1]{index=1}
+da plataforma **Alura**, com foco em consumo de APIs, modelagem de dados e uso de Streams. 
 
 ---
 
